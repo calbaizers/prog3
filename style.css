@@ -12,7 +12,7 @@ body{ /*define estilização geral do conteúdo da página*/
     font-family: "Sedan SC", serif; /*define a fonte utilizada na página*/
     font-optical-sizing: auto; 
     font-style: normal;
-    font-size: large;
+    font-size: 200%;
 }
 .conteudo-principal{ /*classe conteudo-principal do HTML*/
     display: flex; /*define o layout do conteúdo: flex ou grid*/
