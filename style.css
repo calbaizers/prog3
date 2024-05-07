@@ -89,7 +89,7 @@ body{ /*define estilização geral do conteúdo da página*/
     text-transform: uppercase;
 }
 .contador{ /*alinhamento da contagem regressiva*/
-    font-size: 45px;
+    font-size: 30px;
     text-align: center;
 }
 .relogio{ /*tamanho da imagem do relogio*/
