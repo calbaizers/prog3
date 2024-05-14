@@ -106,12 +106,15 @@ body{ /*define estilização geral do conteúdo da página*/
 }
 
 .nomeS{
+    text-transform: uppercase;
     color:#1d28bd
     
 }
 .nomeD{
+    text-transform: uppercase;
     color:hsl(305, 90%, 45%)
 }
 .nomeJ{
+    text-transform: uppercase;
     color: rgb(15, 131, 15);
 }
