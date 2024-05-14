@@ -87,7 +87,6 @@ body{ /*define estilização geral do conteúdo da página*/
     text-align: center;
     color: hsl(0, 65%, 45%); 
     text-transform: uppercase;
-    width: 20%;
 }
 .contador{ /*alinhamento da contagem regressiva*/
     font-size: 30px;
