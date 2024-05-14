@@ -107,16 +107,12 @@ body{ /*define estilização geral do conteúdo da página*/
 }
 
 .nomeS{
-    align-items: center;
-    width: 20%;
     color:#1d28bd
     
 }
 .nomeD{
-    width: 20%;
     color:hsl(305, 90%, 45%)
 }
 .nomeJ{
-    width: 20%;
     color: rgb(15, 131, 15);
 }
