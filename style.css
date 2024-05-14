@@ -85,14 +85,14 @@ body{ /*define estilização geral do conteúdo da página*/
 }
 .aba-conteudo-titulo-secundario{ 
     text-align: center;
-    color: var(--verde); 
+    color: red; 
     text-transform: uppercase;
 }
 .contador{ /*alinhamento da contagem regressiva*/
     font-size: 30px;
     text-align: center;
 }
-.Serjiao{ /*tamanho da imagem do relogio*/
+.Serjiao{ 
     width: 20%;
 }
 .integra2{
