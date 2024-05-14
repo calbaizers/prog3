@@ -103,10 +103,14 @@ body{ /*define estilização geral do conteúdo da página*/
     width: 40%;  
 }
 .Jhon{
-    width:40%;
-}.nomeS{
+    width:40%;  
+}
+
+.nomeS{
+    align-items: center;
     width: 20%;
     color:#1d28bd
+    
 }
 .nomeD{
     width: 20%;
