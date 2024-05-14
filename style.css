@@ -106,3 +106,9 @@ body{ /*define estilização geral do conteúdo da página*/
 }.nomeS{
     color:#1d28bd
 }
+.nomeD{
+    color:hsl(305, 90%, 45%)
+}
+.nomeJ{
+    color: rgb(15, 131, 15);
+}
