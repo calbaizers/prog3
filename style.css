@@ -85,7 +85,7 @@ body{ /*define estilização geral do conteúdo da página*/
 }
 .aba-conteudo-titulo-secundario{ 
     text-align: center;
-    color: red; 
+    color: hsl(0, 65%, 45%); 
     text-transform: uppercase;
 }
 .contador{ /*alinhamento da contagem regressiva*/
